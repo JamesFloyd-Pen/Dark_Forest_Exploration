@@ -1,6 +1,6 @@
 # Dark_Forest_Exploration
 
-WEBGL Javascript website simple game, made in Spring of 2019.
+WEBGL Javascript website simple game, made in Spring of 2019 for Computer Graphics.
 
 # Controls
 
