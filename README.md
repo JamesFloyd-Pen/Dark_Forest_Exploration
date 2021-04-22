@@ -2,6 +2,11 @@
 
 WEBGL Javascript website simple game, made in Spring of 2019 for Computer Graphics.
 
+# Languages and Tools
+- Java
+- HTML
+- WebGl
+
 # Controls
 
 |Keys  | Direction |
@@ -13,3 +18,5 @@ WEBGL Javascript website simple game, made in Spring of 2019 for Computer Graphi
 |   Z    | Moves down |
 |   X    | Moves Up |
 
+# Screenshot
+![Screenshot](https://raw.githubusercontent.com/JamesFloyd-Pen/Dark_Forest_Exploration/main/Screenshot.PNG)
